@@ -1,11 +1,11 @@
 ﻿html {
-    background-color: #e2e2e2;
+    background-color: #3B3A21;
     margin: 0;
     padding: 0;
 }
 
 body {
-    background-color: #fff;
+    background-color: #3B3A21;
     border-top: solid 10px #000;
     color: #333;
     font-size: .85em;
@@ -37,19 +37,10 @@ nav, section {
 }
 
 mark {
-    background-color: #a6dbed;
+    background-color: #11AAFC;
     padding-left: 5px;
     padding-right: 5px;
 }
-
-.float-left {
-    float: left;
-}
-
-.float-right {
-    float: right;
-}
-
 .clear-fix:after {
     content: ".";
     clear: both;
@@ -96,23 +87,23 @@ h5, h6 {
 .content-wrapper {
     margin: 0 auto;
     max-width: 960px;
+    background-color:#3B3A21;
+    overflow:auto;
 }
 
 #body {
-    background-color: #efeeef;
+    background-color: #3B3A21;
     clear: both;
-    padding-bottom: 35px;
+    padding-bottom: 150px;
 }
 
     .main-content {
-        background: url("../Images/accent.png") no-repeat;
-        padding-left: 10px;
-        padding-top: 30px;
+        background: url("../Images/g3002.png") no-repeat;
+
+        padding-top: 150px;
     }
 
-    .featured + .main-content {
-        background: url("../Images/heroAccent.png") no-repeat;
-    }
+
 
 header .content-wrapper {
     padding-top: 20px; 
@@ -120,7 +111,7 @@ header .content-wrapper {
 
 footer {
     clear: both;
-    background-color: #e2e2e2;
+    background-color: #3B3A21;
     font-size: .8em;
     height: 100px;
 }
@@ -130,7 +121,7 @@ footer {
 ----------------------------------------------------------*/
 .site-title {
     color: #c8c8c8;
-    font-family: Rockwell, Consolas, "Courier New", Courier, monospace;
+    font-family: "Segoe UI", Verdana, Helvetica, Sans-Serif;
     font-size: 2.3em;
     margin: 0;
 }
@@ -143,38 +134,6 @@ footer {
 }
 
 
-/* login
-----------------------------------------------------------*/
-#login {
-    display: block;
-    font-size: .85em;
-    margin: 0 0 10px;
-    text-align: right;
-}
-
-    #login a {
-        background-color: #d3dce0;
-        margin-left: 10px;
-        margin-right: 3px;
-        padding: 2px 3px;
-        text-decoration: none;
-    }
-
-    #login a.username {
-        background: none;
-        margin: 0;
-        padding: 0;
-        text-decoration: underline;
-    }
-
-    #login ul {
-        margin: 0;
-    }
-
-    #login li {
-        display: inline;
-        list-style: none;
-    }
 
 
 /* menu
@@ -209,16 +168,11 @@ ul#menu {
 ----------------------------------------------------------*/
 /* featured */
 .featured {
-    background-color: #fff;
+    background-color: #3B3A21;
 }
 
     .featured .content-wrapper {
-        background-color: #7ac0da;
-        background-image: -ms-linear-gradient(left, #7ac0da 0%, #a4d4e6 100%);
-        background-image: -o-linear-gradient(left, #7ac0da 0%, #a4d4e6 100%);
-        background-image: -webkit-gradient(linear, left top, right top, color-stop(0, #7ac0da), color-stop(1, #a4d4e6));
-        background-image: -webkit-linear-gradient(left, #7ac0da 0%, #a4d4e6 100%);
-        background-image: linear-gradient(left, #7ac0da 0%, #a4d4e6 100%);
+        background-color: #11AAFC;
         color: #3e5667;
         padding: 20px 40px 30px 40px;
     }
@@ -252,57 +206,6 @@ section.feature {
     padding: 10px;
 }
 
-/* ordered list */
-ol.round {
-    list-style-type: none;
-    padding-left: 0;
-}
-
-    ol.round li {
-        margin: 25px 0;
-        padding-left: 45px;
-    }
-
-        ol.round li.zero {
-            background: url("../Images/orderedList0.png") no-repeat;
-        }
-
-        ol.round li.one {
-            background: url("../Images/orderedList1.png") no-repeat;
-        }
-
-        ol.round li.two {
-            background: url("../Images/orderedList2.png") no-repeat;
-        }
-
-        ol.round li.three {
-            background: url("../Images/orderedList3.png") no-repeat;
-        }
-
-        ol.round li.four {
-            background: url("../Images/orderedList4.png") no-repeat;
-        }
-
-        ol.round li.five {
-            background: url("../Images/orderedList5.png") no-repeat;
-        }
-
-        ol.round li.six {
-            background: url("../Images/orderedList6.png") no-repeat;
-        }
-
-        ol.round li.seven {
-            background: url("../Images/orderedList7.png") no-repeat;
-        }
-
-        ol.round li.eight {
-            background: url("../Images/orderedList8.png") no-repeat;
-        }
-
-        ol.round li.nine {
-            background: url("../Images/orderedList9.png") no-repeat;
-        }
-
 /* content */
 article {
     float: left;
@@ -326,58 +229,6 @@ aside {
 
 .label {
     font-weight: 700;
-}
-
-/* login page */
-#loginForm {
-    border-right: solid 2px #c8c8c8;
-    float: left;
-    width: 55%;
-}
-
-    #loginForm .validation-error {
-        display: block;
-        margin-left: 15px;
-    }
-
-    #loginForm .validation-summary-errors ul {
-        margin: 0;
-        padding: 0;
-    }
-
-    #loginForm .validation-summary-errors li {
-        display: inline;
-        list-style: none;
-        margin: 0;
-    }
-
-    #loginForm input {
-        width: 250px;
-    }
-
-    #loginForm input[type="checkbox"],
-    #loginForm input[type="submit"],
-    #loginForm input[type="button"],
-    #loginForm button {
-        width: auto;
-    }
-
-#socialLoginForm {
-    margin-left: 40px;
-    float: left;
-    width: 40%;
-}
-
-    #socialLoginForm h2 {
-        margin-bottom:  5px;
-    }
-
-#socialLoginList button {
-    margin-bottom: 12px;
-}
-
-#logoutForm {
-    display: inline;
 }
 
 /* contact */
@@ -440,7 +291,7 @@ textarea {
 }
 
     input:focus, textarea:focus {
-        border: 1px solid #7ac0da;
+        border: 1px solid #11AAFC;
     }
 
     input[type="checkbox"] {
@@ -486,7 +337,7 @@ textarea {
 }
 
 .message-success {
-    color: #7ac0da;
+    color: #11AAFC;
     font-size: 1.3em;
     font-weight: bold;
     margin: 20px 0 10px 0;
@@ -586,6 +437,11 @@ tr.pager td {
     padding: 0 0.25em 0 0;
 }
 
+#portrait {
+
+    float:right;
+
+}
 
 /********************
 *   Mobile Styles   *
@@ -667,6 +523,9 @@ tr.pager td {
 
     .featured .content-wrapper {
         padding: 10px;
+         height:auto;
+         overflow:auto;
+}
     }
 
     /* page content */
@@ -712,29 +571,6 @@ tr.pager td {
             font-size: 1.5em;
             font-weight: 600;
         }
-
-    /* forms */
-    input {
-        width: 90%;
-    }
-
-    /* login page */
-    #loginForm {
-        border-right: none;
-        float: none;
-        width: auto;
-    }
-
-        #loginForm .validation-error {
-            display: block;
-            margin-left: 15px;
-        }
-
-    #socialLoginForm {
-        margin-left: 0;
-        float: none;
-        width: auto;
-    }
 
 
     /* footer

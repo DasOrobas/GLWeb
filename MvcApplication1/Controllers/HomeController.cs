@@ -10,7 +10,7 @@ namespace MvcApplication1.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Creating a MVC application and uploading it on Azure.";
+            ViewBag.Message = "You have reached my playground.";
 
             return View();
         }
