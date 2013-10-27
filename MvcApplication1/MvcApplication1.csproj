@@ -171,6 +171,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\lemonade.css" />
     <Content Include="Content\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png" />
     <Content Include="Content\themes\base\images\ui-bg_flat_75_ffffff_40x100.png" />
     <Content Include="Content\themes\base\images\ui-bg_glass_55_fbf9ee_1x400.png" />
@@ -230,7 +231,7 @@
     <None Include="Properties\PublishProfiles\guillaumelevasseur - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\guillaumelevasseur - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-1.7.1.intellisense.js" />
-    <Content Include="Images\g3002.png" />
+    <Content Include="Images\G-withStyleWithBox.png" />
     <Content Include="Images\portrait.png" />
     <Content Include="Scripts\jquery-1.7.1.js" />
     <Content Include="Scripts\jquery-1.7.1.min.js" />
