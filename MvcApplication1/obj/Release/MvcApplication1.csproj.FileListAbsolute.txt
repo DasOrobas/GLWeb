@@ -46,3 +46,4 @@ c:\users\guillaume\documents\visual studio 2012\Projects\MvcApplication1\MvcAppl
 c:\users\guillaume\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
 c:\users\guillaume\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1\obj\Release\MvcApplication1.dll
 c:\users\guillaume\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1\obj\Release\MvcApplication1.pdb
+C:\Users\Guillaume\documents\visual studio 2012\Projects\MvcApplication1\MvcApplication1\obj\Release\MvcApplication1.csprojResolveAssemblyReference.cache
