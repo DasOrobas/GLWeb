@@ -103,9 +103,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MvcApplication1\MvcApplication1.csproj">
+    <ProjectReference Include="..\GuillaumeLevasseur\GuillaumeLevasseur.csproj">
       <Project>{4402C00B-9A3F-499E-A665-089623D0BC7B}</Project>
-      <Name>MvcApplication1</Name>
+      <Name>GuillaumeLevasseur</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />

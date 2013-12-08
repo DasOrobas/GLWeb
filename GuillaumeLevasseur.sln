@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApplication1", "MvcApplication1\MvcApplication1.csproj", "{4402C00B-9A3F-499E-A665-089623D0BC7B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuillaumeLevasseur", "GuillaumeLevasseur\GuillaumeLevasseur.csproj", "{4402C00B-9A3F-499E-A665-089623D0BC7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApplication1.Tests", "MvcApplication1.Tests\MvcApplication1.Tests.csproj", "{88ED0198-058D-4265-B22B-F6E4786009A8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuillaumeLevasseur.Tests", "GuillaumeLevasseur.Tests\GuillaumeLevasseur.Tests.csproj", "{88ED0198-058D-4265-B22B-F6E4786009A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -171,7 +171,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Content\lemonade.css" />
+    <Content Include="Content\foudationCss\foundation.css" />
+    <Content Include="Content\foudationCss\foundation.min.css" />
+    <Content Include="Content\foudationCss\normalize.css" />
     <Content Include="Content\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png" />
     <Content Include="Content\themes\base\images\ui-bg_flat_75_ffffff_40x100.png" />
     <Content Include="Content\themes\base\images\ui-bg_glass_55_fbf9ee_1x400.png" />
@@ -231,7 +233,9 @@
     <None Include="Properties\PublishProfiles\guillaumelevasseur - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\guillaumelevasseur - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-1.7.1.intellisense.js" />
-    <Content Include="Images\G-withStyleWithBox.png" />
+    <Content Include="Images\G-withStyleWithBox.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
     <Content Include="Images\portrait.png" />
     <Content Include="Scripts\jquery-1.7.1.js" />
     <Content Include="Scripts\jquery-1.7.1.min.js" />
@@ -244,6 +248,30 @@
     <Content Include="Scripts\jquery.validate.min.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
+    <Content Include="Scripts\foundation\foundation.min.js" />
+    <Content Include="Scripts\foundation\foundation\foundation.abide.js" />
+    <Content Include="Scripts\foundation\foundation\foundation.accordion.js" />
+    <Content Include="Scripts\foundation\foundation\foundation.alert.js" />
+    <Content Include="Scripts\foundation\foundation\foundation.clearing.js" />
+    <Content Include="Scripts\foundation\foundation\foundation.dropdown.js" />
+    <Content Include="Scripts\foundation\foundation\foundation.interchange.js" />
+    <Content Include="Scripts\foundation\foundation\foundation.joyride.js" />
+    <Content Include="Scripts\foundation\foundation\foundation.js" />
+    <Content Include="Scripts\foundation\foundation\foundation.magellan.js" />
+    <Content Include="Scripts\foundation\foundation\foundation.offcanvas.js" />
+    <Content Include="Scripts\foundation\foundation\foundation.orbit.js" />
+    <Content Include="Scripts\foundation\foundation\foundation.reveal.js" />
+    <Content Include="Scripts\foundation\foundation\foundation.tab.js" />
+    <Content Include="Scripts\foundation\foundation\foundation.tooltip.js" />
+    <Content Include="Scripts\foundation\foundation\foundation.topbar.js" />
+    <Content Include="Scripts\foundation\jquery.js" />
+    <Content Include="Scripts\foundation\modernizr.js" />
+    <Content Include="Scripts\foundation\vendor\custom.modernizr.js" />
+    <Content Include="Scripts\foundation\vendor\fastclick.js" />
+    <Content Include="Scripts\foundation\vendor\jquery.autocomplete.js" />
+    <Content Include="Scripts\foundation\vendor\jquery.cookie.js" />
+    <Content Include="Scripts\foundation\vendor\jquery.js" />
+    <Content Include="Scripts\foundation\vendor\placeholder.js" />
     <Content Include="Scripts\knockout-2.1.0.debug.js" />
     <Content Include="Scripts\knockout-2.1.0.js" />
     <Content Include="Scripts\modernizr-2.5.3.js" />

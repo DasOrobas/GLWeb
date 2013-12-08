@@ -3,23 +3,28 @@
 
 }
 @section Styles {
-    <link href="@Url.Content("~/Content/lemonade.css")" rel="stylesheet" type="text/css" />
+    <link href="@Url.Content("~/Content/foudationCss/foundation.css")" rel="stylesheet" type="text/css" />
 }
 
 @section featured {
+                    
+        <script src="~/Scripts/foundation/foundation.min.js"></script>
+     <script>
 
-    <div class="container">
-        <div class="bit-3 part">
+                         $(document).foundation();    </script>
+    <div class="row">
+        <div class ="large-2 columns">
             <img src="~/Images/G-withStyleWithBox.png" />
         </div>
-        <div class="bit-3 part">
+        <div">
             My name is Guillaume and I will experiment here.
         </div>
-        <div class="bit-1 part">
+        <div>
 
-            <img src="~/Images/portrait.png"/>
+            <img src="/Images/portrait.png"/>
         </div>
 
+    
+        </div>
 
-    </div class="container">
 }
