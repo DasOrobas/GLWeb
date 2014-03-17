@@ -10,15 +10,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="800"
-   height="720"
+   width="1104.0558"
+   height="185.42726"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="G-withTitleIntegrated.svg"
-   inkscape:export-filename="C:\Users\Guillaume\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\Images\G-withStyleWithBox.png"
-   inkscape:export-xdpi="637.87378"
-   inkscape:export-ydpi="637.87378">
+   inkscape:export-filename="C:\Users\Guillaume\Documents\Visual Studio 2012\Projects\GuillaumeLevasseur\GuillaumeLevasseur\Images\G-withStyleWithBox.png"
+   inkscape:export-xdpi="24.275518"
+   inkscape:export-ydpi="24.275518">
   <defs
      id="defs4">
     <marker
@@ -139,11 +139,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710681"
-     inkscape:cx="449.93453"
-     inkscape:cy="138.26376"
+     inkscape:zoom="0.50000002"
+     inkscape:cx="448.6898"
+     inkscape:cy="269.16133"
      inkscape:document-units="px"
-     inkscape:current-layer="g3085"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1280"
      inkscape:window-height="961"
@@ -157,7 +157,8 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     borderlayer="true" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -174,103 +175,81 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-426.04226,-189.30818)">
+     transform="translate(-426.04223,-189.30816)">
+    <rect
+       transform="matrix(0.99999997,2.2438362e-4,-0.02676486,0.99964176,0,0)"
+       ry="1.8900273"
+       rx="393.46695"
+       y="194.90112"
+       x="441.57367"
+       height="174.00099"
+       width="1088.0831"
+       id="rect5463"
+       style="fill:#c8a2c8;fill-opacity:1;fill-rule:evenodd;stroke:#5e7b7c;stroke-width:11.41901142000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0.20000000000000001;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
     <g
-       id="g3085"
-       style="fill:#5c4869;fill-opacity:1">
+       style="fill:#5e7b77;fill-opacity:1;stroke:#5e7b77;stroke-width:1.47672987000000000;stroke-miterlimit:0.20000000000000001;stroke-opacity:1;stroke-dasharray:none"
+       transform="matrix(7.6152291,0,0,7.8490826,-1531.8423,-2000.0727)"
+       id="g6341">
       <rect
-         style="fill:#3b3a21;fill-opacity:1;fill-rule:evenodd;stroke:#11aafc;stroke-width:19.36376762;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0.2;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-         id="rect5463"
-         width="777.3819"
-         height="700.35504"
-         x="439.9567"
-         y="198.08897"
-         rx="281.11279"
-         ry="7.6073699"
-         transform="matrix(0.9999992,0.00126455,-0.00475084,0.99998871,0,0)" />
-      <g
-         id="g4609"
-         transform="translate(66.789427,5.8944044)">
-        <g
-           style="fill:#11aafc;fill-opacity:1;stroke:#11aafc;stroke-opacity:1"
-           transform="matrix(7.6867484,0,0,7.8490826,-1536.63,-1902.7295)"
-           id="g6341">
-          <rect
-             style="fill:#11aafc;fill-opacity:1;fill-rule:evenodd;stroke:#11aafc;stroke-opacity:1"
-             id="rect5422"
-             width="21.345224"
-             height="22.866386"
-             x="267.6817"
-             y="273.32828"
-             ry="0.25634354"
-             clip-path="url(#clipPath5424)"
-             transform="matrix(0.94732804,0,0,0.94732804,6.6051052,23.764834)" />
-          <rect
-             style="fill:#11aafc;fill-opacity:1;fill-rule:evenodd;stroke:#11aafc;stroke-width:1.54328549px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="rect6333"
-             width="1.3902096"
-             height="0.77149117"
-             x="271.31451"
-             y="287.21286"
-             ry="0.10048834" />
-        </g>
-        <text
-           transform="scale(0.88120839,1.1348054)"
-           sodipodi:linespacing="94%"
-           id="text3023"
-           y="369.79797"
-           x="622.64368"
-           style="font-size:105.24680328px;font-style:normal;font-weight:normal;line-height:93.99999976%;letter-spacing:0px;word-spacing:0px;fill:#11aafc;fill-opacity:1;stroke:none;font-family:Sans"
-           xml:space="preserve"><tspan
-             dx="12.35301"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:93.99999976%;letter-spacing:1.23629928px;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
-             y="369.79797"
-             x="622.64368"
-             id="tspan3025"
-             sodipodi:role="line"><tspan
-               id="tspan4605"
-               style="fill:none">G</tspan><tspan
-               style="letter-spacing:0.2px"
-               id="tspan4622">UILLAUME</tspan></tspan><tspan
-             dx="13.609245"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:93.99999976%;letter-spacing:2.67999983px;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
-             id="tspan3027"
-             y="468.72998"
-             x="622.64368"
-             sodipodi:role="line">LEVASSEUR</tspan><tspan
-             dx="0"
-             style="font-size:219.34338379px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:93.99999976%;letter-spacing:16.14169502px;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Bold"
-             id="tspan3029"
-             y="678.93744"
-             x="622.64368"
-             sodipodi:role="line"><tspan
-               id="tspan3643"
-               style="font-size:219.34338379px;letter-spacing:-47.14900589px">.</tspan><tspan
-               style="font-size:279.16430664px;letter-spacing:-35.96234512px"
-               id="tspan4599">COM </tspan></tspan></text>
-      </g>
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot3103"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         transform="translate(60.121356,215.71516)"><flowRegion
-           id="flowRegion3105"><rect
-             id="rect3107"
-             width="99.999992"
-             height="69"
-             x="730"
-             y="265.81757" /></flowRegion><flowPara
-           id="flowPara3109"></flowPara></flowRoot>      <flowRoot
-         xml:space="preserve"
-         id="flowRoot3111"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         transform="translate(60.121356,215.71516)"><flowRegion
-           id="flowRegion3113"><rect
-             id="rect3115"
-             width="0.99999994"
-             height="44"
-             x="599"
-             y="-184.1824" /></flowRegion><flowPara
-           id="flowPara3117"></flowPara></flowRoot>    </g>
-  </g>
+         style="fill:#5e7b77;fill-opacity:1;fill-rule:evenodd;stroke:#5e7b77;stroke-width:1.55883693999999990;stroke-miterlimit:0.20000000000000001;stroke-opacity:1;stroke-dasharray:none"
+         id="rect5422"
+         width="21.345224"
+         height="22.866386"
+         x="267.6817"
+         y="273.32828"
+         ry="0.25634354"
+         clip-path="url(#clipPath5424)"
+         transform="matrix(0.94732804,0,0,0.94732804,6.6051052,23.764834)" />
+      <rect
+         style="fill:#5e7b77;fill-opacity:1;fill-rule:evenodd;stroke:#5e7b77;stroke-width:1.47672987000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0.20000000000000001;stroke-opacity:1;stroke-dasharray:none"
+         id="rect6333"
+         width="1.3902096"
+         height="0.77149117"
+         x="271.31451"
+         y="287.21286"
+         ry="0.10048834" />
+    </g>
+    <text
+       transform="scale(0.87709929,1.1401218)"
+       sodipodi:linespacing="94%"
+       id="text3023"
+       y="282.69397"
+       x="699.99365"
+       style="font-size:104.75604248000000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:93.99999975999999400%;letter-spacing:0px;word-spacing:0px;fill:#5e7b77;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       xml:space="preserve"><tspan
+         style="font-size:111.47774506000000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:93.99999975999999400%;letter-spacing:1.23053443000000010px;fill:#5e7b77;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         id="tspan3027"
+         y="282.69397"
+         x="699.99365"
+         sodipodi:role="line">uillaume Levasseur</tspan><tspan
+         style="font-size:218.32058716000000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:93.99999975999999400%;letter-spacing:16.06642722999999900px;fill:#5e7b77;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         id="tspan3029"
+         y="387.48306"
+         x="699.99365"
+         sodipodi:role="line" /></text>
+    <flowRoot
+       transform="translate(60.121356,215.71516)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;stroke-width:11.417;stroke-miterlimit:0.2;stroke-dasharray:none"
+       id="flowRoot3103"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3105"><rect
+           y="265.81757"
+           x="730"
+           height="69"
+           width="99.999992"
+           id="rect3107"
+           style="stroke-width:11.417;stroke-miterlimit:0.2;stroke-dasharray:none" /></flowRegion><flowPara
+         id="flowPara3109" /></flowRoot>    <flowRoot
+       transform="translate(60.121356,215.71516)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;stroke-width:11.417;stroke-miterlimit:0.2;stroke-dasharray:none"
+       id="flowRoot3111"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3113"><rect
+           y="-184.1824"
+           x="599"
+           height="44"
+           width="0.99999994"
+           id="rect3115"
+           style="stroke-width:11.417;stroke-miterlimit:0.2;stroke-dasharray:none" /></flowRegion><flowPara
+         id="flowPara3117" /></flowRoot>  </g>
 </svg>
