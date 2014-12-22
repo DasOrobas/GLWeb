@@ -1,4 +1,0 @@
-GLWeb
-=====
-
-guillaumelevasseur.com
